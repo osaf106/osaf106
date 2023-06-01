@@ -1,4 +1,4 @@
-[![MasterHead](https://static.wixstatic.com/media/97dbcd_c3176517709347c1b74f8d2c5da4e41f~mv2.gif)(https://osaf106.io)
+[![MasterHead](https://static.wixstatic.com/media/97dbcd_c3176517709347c1b74f8d2c5da4e41f~mv2.gif)
 <h1 align="center">Hi 👋, I'm Osaf Ahmed</h1>
 <h3 align="center">A passionate Backend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
