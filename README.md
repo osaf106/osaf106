@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Desktop Application, Web Application**
 
-- 📫 How to reach me **osafahmed6723@gmail.com**
+- 📫 How to reach me **osafahmeds06@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
