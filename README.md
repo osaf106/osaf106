@@ -1,6 +1,7 @@
 [![MasterHead](https://www.horizont.com.hr/posao/backend-developer.gif)
 <h1 align="center">Hi 👋, I'm Osaf Ahmed</h1>
 <h3 align="center">A passionate Backend developer from Pakistan</h3>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zohaib1397&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osaf106&label=Profile%20views&color=0e75b6&style=flat" alt="osaf106" /> </p>
