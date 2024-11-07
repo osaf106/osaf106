@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Emerging Science and Technology System**
 
-- 🌱 I’m currently learning **.net Framework, Java Swing**
+- 🌱 I’m currently learning **.net Framework, React, Node JS , Java Swing and Spring Boot**
 
 - 💬 Ask me about **Desktop Application, Web Application**
 
