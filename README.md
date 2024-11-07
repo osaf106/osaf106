@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **.net Framework, React, Node JS , Java Swing and Spring Boot**
 
-- 💬 Ask me about **Desktop Application, Web Application**
+- 💬 Ask me about **Desktop Application, Web Application and Android Application**
 
 - 📫 How to reach me **osafahmeds06@gmail.com**
 
